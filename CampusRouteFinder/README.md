@@ -55,8 +55,5 @@ BFS/DFS extra space: O(V) (visited + queue/stack/recursion + parent array).
 - `REPORT.md` – short project report
 - `README.md` – this file
 
-## Screenshots to take (for submission)
-Menu options 2/3 (graph), 4 (BFS route), 5 (DFS), 7/8 (reachability), and `./route_finder --test`.
-
-## Concepts Used (all beginner level)
-Global arrays, functions, loops, `string`, recursion (DFS only). No vectors, classes, templates or STL containers: the BFS queue and DFS stack are plain arrays.
+## Concepts Used 
+Global arrays, functions, loops, `string`, recursion (DFS only). classes, templates or STL containers: the BFS queue and DFS stack are plain arrays.
