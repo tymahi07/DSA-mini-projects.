@@ -54,8 +54,5 @@ The program loads records from `students_data.txt` when the file exists. Otherwi
 ## Files
 `main.cpp`, `REPORT.md`, `README.md`
 
-## Screenshots to take
-Insertion + duplicate rejection, successful/unsuccessful search, all 3 traversals, 3 deletion cases (option 3 then option 8), efficiency experiment (option 9).
-
-## Concepts Used (all beginner level)
-`struct`, pointers (`new` / `delete`), recursion, arrays, `string`. No vectors, classes, templates or STL containers.
+## Concepts Used
+`struct`, pointers (`new` / `delete`), recursion, arrays, `string`. classes, templates or STL containers.
